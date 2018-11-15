@@ -1,3 +1,11 @@
+<!-- default file list -->
+*Files to look at*:
+
+* [DemoReportService.svc.cs](./CS/SilverlightApplication1.Web/DemoReportService.svc.cs) (VB: [DemoReportService.svc.vb](./VB/SilverlightApplication1.Web/DemoReportService.svc.vb))
+* [SampleReport.cs](./CS/SilverlightApplication1.Web/SampleReport.cs) (VB: [SampleReport.vb](./VB/SilverlightApplication1.Web/SampleReport.vb))
+* [MainPage.xaml](./CS/SilverlightApplication1/MainPage.xaml) (VB: [MainPage.xaml](./VB/SilverlightApplication1/MainPage.xaml))
+* [MainPage.xaml.cs](./CS/SilverlightApplication1/MainPage.xaml.cs) (VB: [MainPage.xaml](./VB/SilverlightApplication1/MainPage.xaml))
+<!-- default file list end -->
 # How to implement a Document Preview in a Silverlight application
 
 
