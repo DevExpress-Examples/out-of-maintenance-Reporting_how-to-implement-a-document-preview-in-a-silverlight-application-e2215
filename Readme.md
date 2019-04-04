@@ -4,7 +4,7 @@
 * [ReportService1.svc](./CS/SilverlightApplication1.Web/ReportService1.svc) (VB: [ReportService1.svc](./VB/SilverlightApplication1.Web/ReportService1.svc))
 * [web.config](./CS/SilverlightApplication1.Web/web.config)
 * [XtraReport1.cs](./CS/SilverlightApplication1.Web/XtraReport1.cs) (VB: [XtraReport1.vb](./VB/SilverlightApplication1.Web/XtraReport1.vb))
-* [MainPage.xaml](./CS/SilverlightApplication1/MainPage.xaml) (VB: [MainPage.xaml.vb](./VB/SilverlightApplication1/MainPage.xaml.vb))
+* [MainPage.xaml](./CS/SilverlightApplication1/MainPage.xaml) (VB: [MainPage.xaml](./VB/SilverlightApplication1/MainPage.xaml))
 * [MainPage.xaml.cs](./CS/SilverlightApplication1/MainPage.xaml.cs) (VB: [MainPage.xaml.vb](./VB/SilverlightApplication1/MainPage.xaml.vb))
 <!-- default file list end -->
 # How to implement a Document Preview in a Silverlight application
