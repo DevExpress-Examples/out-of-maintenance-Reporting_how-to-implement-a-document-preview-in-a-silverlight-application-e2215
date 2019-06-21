@@ -5,6 +5,9 @@
 * **[MainPage.xaml](./CS/SilverlightApplication1/MainPage.xaml) (VB: [MainPage.xaml](./VB/SilverlightApplication1/MainPage.xaml))**
 <!-- default file list end -->
 # How to implement a Document Preview in a Silverlight application
+<!-- run online -->
+**[[Run Online]](https://codecentral.devexpress.com/e2215)**
+<!-- run online end -->
 
 
 <p>This example demonstrates how you can add XtraReport to a Silverlight application and show its Document Preview from where it can be printed and/or exported to a variety of popular formats (notably PDF, HTML, MHT, RTF, TXT, CSV, XLS, XLSX, and XPS).</p>
