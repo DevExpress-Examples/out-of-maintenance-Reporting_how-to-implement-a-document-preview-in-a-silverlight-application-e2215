@@ -1,8 +1,3 @@
-<!-- default badges list -->
-![](https://img.shields.io/endpoint?url=https://codecentral.devexpress.com/api/v1/VersionRange/128601191/11.1.4%2B)
-[![](https://img.shields.io/badge/Open_in_DevExpress_Support_Center-FF7200?style=flat-square&logo=DevExpress&logoColor=white)](https://supportcenter.devexpress.com/ticket/details/E2215)
-[![](https://img.shields.io/badge/📖_How_to_use_DevExpress_Examples-e9f6fc?style=flat-square)](https://docs.devexpress.com/GeneralInformation/403183)
-<!-- default badges end -->
 <!-- default file list -->
 *Files to look at*:
 
@@ -13,9 +8,6 @@
 * [MainPage.xaml.cs](./CS/SilverlightApplication1/MainPage.xaml.cs) (VB: [MainPage.xaml.vb](./VB/SilverlightApplication1/MainPage.xaml.vb))
 <!-- default file list end -->
 # How to implement a Document Preview in a Silverlight application
-<!-- run online -->
-**[[Run Online]](https://codecentral.devexpress.com/e2215)**
-<!-- run online end -->
 
 
 <p>This example demonstrates how you can add XtraReport to a Silverlight application and show its Document Preview from where it can be printed and/or exported to a variety of popular formats (notably PDF, HTML, MHT, RTF, TXT, CSV, XLS, XLSX, and XPS).</p>
